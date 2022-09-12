@@ -1,0 +1,11 @@
+#div_top_hypers {
+    background-color:#eeeeee;
+    display:inline;      
+}
+#contacts-above li{
+    display: inline;
+}
+
+.to-user{
+    display: none;
+}
